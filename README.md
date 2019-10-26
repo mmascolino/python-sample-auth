@@ -79,7 +79,7 @@ If you're building a [Flask](http://flask.pocoo.org/)-based web application, the
 
 ### Request-OAuthlib (sample_requests.py)
 
-If you're using [Requests](http://docs.python-requests.org/en/master/), the most popular HTTP library for Python developers, [Requests-OAuthlib](https://github.com/requests/requests-oauthlib) is a good option for Microsoft Graph authentication. The [sample_requests.py](https://github.com/microsoftgraph/python-sample-auth/blob/master/sample_requests.py) sample shows how to use Requests-OAuthlib to authenticate to Microsoft Graph from a Bottle web app.
+If you're using [Requests](http://python-requests.org/), the most popular HTTP library for Python developers, [Requests-OAuthlib](https://github.com/requests/requests-oauthlib) is a good option for Microsoft Graph authentication. The [sample_requests.py](https://github.com/microsoftgraph/python-sample-auth/blob/master/sample_requests.py) sample shows how to use Requests-OAuthlib to authenticate to Microsoft Graph from a Bottle web app.
 
 ### graphrest module (sample_graphrest.py)
 
